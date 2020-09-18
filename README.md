@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a developer from a heart of the Europe - Czechia. 🌍 I study on @pslib-cz.
+
+- 🔭 I’m currently working on @smworkscz
+
 <!--
 **Liturkey/Liturkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
